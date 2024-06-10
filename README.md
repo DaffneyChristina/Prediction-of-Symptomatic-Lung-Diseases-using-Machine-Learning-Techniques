@@ -28,5 +28,7 @@ OUTPUT RESULT :
 Test each model with a new xray image and predict a result by it's accuracy.
 Example
 
-![image](https://github.com/DaffneyChristina/Prediction-of-Symptomatic-Lung-Diseases-using-Machine-Learning-Techniques/assets/107945264/5221a973-c129-4c86-9a7d-4f21f075f7aa)
+![image](https://github.com/DaffneyChristina/Prediction-of-Symptomatic-Lung-Diseases-using-Machine-Learning-Techniques/assets/107945264/5221a973-c129-4c86-9a7d-4f21f075f7aa) ![image](https://github.com/DaffneyChristina/Prediction-of-Symptomatic-Lung-Diseases-using-Machine-Learning-Techniques/assets/107945264/190b844c-dd4d-4b63-a784-a893493f5c53) ![image](https://github.com/DaffneyChristina/Prediction-of-Symptomatic-Lung-Diseases-using-Machine-Learning-Techniques/assets/107945264/6d50e426-b707-475c-8871-6daebf0af255)
+
+
 
